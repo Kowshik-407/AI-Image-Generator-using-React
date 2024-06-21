@@ -34,16 +34,13 @@ For Backend:
 #### Home Page
 ![image](https://github.com/Kowshik-407/AI-Image-Generator-using-React/assets/66817358/8fb3feb3-1c18-489f-99ed-d50f8335f2e8)
 
-#### Image Generation
-![image](https://github.com/Kowshik-407/AI-Image-Generator-using-React/assets/66817358/2c2cb57e-a6b0-41cb-b3a4-f01eb390f797)
-![image](https://github.com/Kowshik-407/AI-Image-Generator-using-React/assets/66817358/a456bbba-dd4f-4fb4-aa5d-ecb6dd1b3304)
-
-
 #### Generation of Surprise Prompts
 ![dalle-clone-gif](https://github.com/Kowshik-407/AI-Image-Generator-using-React/assets/66817358/7a666daf-b24e-49fb-94f6-7c08d128cbd4)
 
+#### Image Generation
+![image](https://github.com/Kowshik-407/AI-Image-Generator-using-React/assets/66817358/a456bbba-dd4f-4fb4-aa5d-ecb6dd1b3304)
+
+
 #### Generate Images: Using Upload an Image button
-![image](https://github.com/Kowshik-407/AI-Image-Generator-using-React/assets/66817358/47aeda05-bee5-43b1-aaa2-efb7c2348e5d)
-
-
-
+![image](https://github.com/Kowshik-407/AI-Image-Generator-using-React/assets/66817358/6833db26-17ab-46ef-b27b-24efa5781b14)
+![image](https://github.com/Kowshik-407/AI-Image-Generator-using-React/assets/66817358/222bf353-12b8-490a-9b87-98dc540cf61d)
