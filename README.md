@@ -15,7 +15,7 @@ AI Image Generator using React.js
 2. Open the project in VSCode
 3. Now, open the terminal in it and install these packages: 
 ```
- npm i node_modules express cors nodemon dotenv
+ npm i cors express nodemon dotenv openai fs multer
 ```
 4. Create .env file and paste the API_KEY in it
 5. Run the ports of start:frontend - 3000 and start:backend - 8000
